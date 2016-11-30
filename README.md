@@ -26,7 +26,6 @@ container of your choice.
 You can access the example page at `http://localhost:8080/togglz-jsf-example`
 
 #### Access Togglz Admin Console
-*****************************************
 URL: `http://localhost:8080/togglz-jsf-example/togglz`
 
 
